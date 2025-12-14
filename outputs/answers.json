@@ -1,0 +1,111 @@
+[
+  {
+    "question_id": 1,
+    "answer": "The total revenue for the fiscal year ended September 28, 2024, according to Source 1 [Apple 10-K], is $391,035 million.",
+    "sources": [
+      "Apple 10-K",
+      "Unknown Section",
+      "p. 32"
+    ]
+  },
+  {
+    "question_id": 2,
+    "answer": "As of October 18, 2024, there were **15,115,823,000** shares of common stock issued and outstanding.",
+    "sources": [
+      "Apple 10-K",
+      "Unknown Section",
+      "p. 2"
+    ]
+  },
+  {
+    "question_id": 3,
+    "answer": "The total amount of term debt (current + non-current) reported by Apple as of September 28, 2024 is $97,341 million. This can be found in Source 1 [Apple 10-K, Item 8, p. 28] under the section titled \"Term Debt.\"",
+    "sources": [
+      "Apple 10-K",
+      "Unknown Section",
+      "p. 46"
+    ]
+  },
+  {
+    "question_id": 4,
+    "answer": "November 1, 2024",
+    "sources": [
+      "Apple 10-K",
+      "Unknown Section",
+      "p. 118"
+    ]
+  },
+  {
+    "question_id": 5,
+    "answer": "Yes, Apple has unresolved staff comments from the SEC as of this filing. According to Source 1, Item 1A, Risk Factors, p. 28:\n\n\"Unresolved Staff Comments - As part of our ongoing compliance efforts, we review feedback received from the SEC regarding our filings and communications. We maintain records of these reviews and resolutions.\"\n\nThe source indicates that Apple maintains records of unresolved staff comments, which implies there were indeed unresolved issues as of the time of this filing.",
+    "sources": [
+      "Apple 10-K",
+      "Item 1. Business",
+      "p. 3"
+    ]
+  },
+  {
+    "question_id": 6,
+    "answer": "Tesla's total revenue for the year ended December 31, 2023 was $96,773 million.",
+    "sources": [
+      "Tesla 10-K",
+      "Unknown Section",
+      "p. 51"
+    ]
+  },
+  {
+    "question_id": 7,
+    "answer": "To calculate this, we need to sum up the revenues from Automotive Sales and exclude those from Automotive Leasing:\n\nTotal Automotive Revenue = Automotive Sales + Automotive Regulatory Credits + Automotive Leasing\n= $78,509 + $1,790 + ($2,120 - $356)\n= $78,509 + $1,790 + $1,764\n= $81,063\n\nNow, let's find the percentage of total revenue that comes from Automotive Sales:\n\nPercentage = (Total Automotive Revenue / Total Revenues) * 100%\n= ($81,063 / $96,773) * 100%\n\u2248 84.05%\n\nTherefore, approximately 84.05% of Tesla's total revenue in 2023 came from Automotive Sales (excluding Leasing).",
+    "sources": [
+      "Tesla 10-K",
+      "Unknown Section",
+      "p. 51"
+    ]
+  },
+  {
+    "question_id": 8,
+    "answer": "The primary reason Tesla states for being highly dependent on Elon Musk is that he is the Technoking of Tesla and plays a crucial role in its management. Specifically, the text mentions:\n\n\"Although Mr. Musk spends significant time with Tesla and is highly active in our management, he does not devote his full time and attention to Tesla.\"\n\nAdditionally, it notes that:\n\n\"None of our key employees is bound by an employment agreement for any specific term and we may not be able to successfully attract and retain senior leadership necessary to grow our business.\"",
+    "sources": [
+      "Tesla 10-K",
+      "Unknown Section",
+      "p. 22"
+    ]
+  },
+  {
+    "question_id": 9,
+    "answer": "Based on the provided context:\n\nTesla currently produces and delivers the following types of vehicles:\n\n1. **Model S** - A luxury sedan.\n2. **Model X** - A mid-size SUV.\n3. **Model 3** - A compact sedan.\n4. **Model Y** - An SUV.\n5. **Cybertruck** - A full-size electric pickup truck.\n6. **Tesla Semi** - A commercial electric vehicle designed for long-haul transportation.\n\nAdditionally, Tesla is planning to introduce more vehicles through its next-generation platform and is focusing on expanding into additional vehicle markets.",
+    "sources": [
+      "Tesla 10-K",
+      "Unknown Section",
+      "p. 35"
+    ]
+  },
+  {
+    "question_id": 10,
+    "answer": "The purpose of Tesla's 'lease pass-through fund arrangements' is to finance the cost of solar energy systems with investors through master leases for an initial term ranging between 10 and 25 years. These solar energy systems are subject to lease or PPA agreements with customers with an initial term not exceeding 25 years. The arrangements involve large upfront payments made by investors to the lessor, which is one of Tesla's subsidiaries, along with subsequent periodic payments. This method allows Tesla to raise capital while providing customers with access to solar energy solutions.",
+    "sources": [
+      "Tesla 10-K",
+      "Unknown Section",
+      "p. 82"
+    ]
+  },
+  {
+    "question_id": 11,
+    "answer": "Not specified in the document.",
+    "sources": []
+  },
+  {
+    "question_id": 12,
+    "answer": "The CFO of Apple as of 2025 is Luca Maestri. This can be inferred from the following excerpt:\n\n\"Date: November 1, 2024 By: /s/ Luca Maestri Luca Maestri Senior Vice President, Chief Financial Officer\"\n\nLuca Maestri was appointed as the Senior Vice President, Chief Financial Officer of Apple Inc. on November 1, 2024.",
+    "sources": [
+      "Apple 10-K",
+      "Unknown Section",
+      "p. 118"
+    ]
+  },
+  {
+    "question_id": 13,
+    "answer": "Not specified in the document.",
+    "sources": []
+  }
+]
